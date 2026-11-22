@@ -1,0 +1,49 @@
+# 🐾 LuCat · Un temporizador de caricias para Apple Watch
+
+[English](README.en.md) | [简体中文](README.zh-Hans.md) | [繁體中文（香港）](README.zh-Hant-HK.md) | [Русский](README.ru.md) | [Português (Brasil)](README.pt-BR.md) | [Español (México)](README.es-MX.md) | [Français](README.fr.md) | [Deutsch](README.de.md) | [Italiano](README.it.md) | [日本語](README.ja.md)
+
+**[Gratis en App Store](https://apps.apple.com/us/app/lucat-cat-petting-timer/id6835910184)** · [Presentación en GitHub](https://betaer.github.io/lucat/es-MX/) · [Leer la publicación original en X](https://x.com/Betaer/status/2124558620260188334)
+
+![LuCat](site/assets/images/lucat-social.jpg)
+
+## ¿Una app para acariciar a tu gato?
+
+El Apple Watch registra entrenamientos. ¿Y si sus sensores de movimiento también pudieran registrar el tiempo que pasamos acariciando a nuestros gatos? Así nació LuCat.
+
+Unos minutos juntos también merecen quedar registrados. LuCat guarda esos momentos para cada gato, desde tu muñeca hasta tu iPhone.
+
+## Cómo funciona
+
+Elige un gato en el Apple Watch, toca Iniciar y disfruta el momento. Al terminar, la sesión se guarda automáticamente y se sincroniza con el iPhone enlazado. En el calendario puedes revisar con qué gato estuviste, por cuánto tiempo y los movimientos registrados.
+
+## Un perfil para cada gato
+
+Agrega a tus gatos, toma una foto de perfil y tócala para verla más grande. Cada gato tiene su propio historial, incluso si en casa hay varios.
+
+## Historial de peso
+
+Registra cada pesaje y revisa la evolución del peso de cada gato en una gráfica, tanto para gatitos en crecimiento como para gatos que necesitan cuidar su peso.
+
+## Recordatorios y pequeñas metas
+
+Define una meta diaria, por ejemplo tres minutos o tres sesiones. Los recordatorios te ayudan a dedicarles tiempo y muestran las fotos de tus gatos por turnos.
+
+## Información de movimiento
+
+Revisa líneas de tiempo y una estimación de la intensidad de las interacciones basada en el movimiento de la muñeca. Estas estimaciones no miden directamente la fuerza ni la presión sobre tu gato.
+
+## Cómo la desarrollé
+
+Desarrollé LuCat conversando en lenguaje natural con ChatGPT Dot y compartiendo algunas imágenes. Usé Google Gemini Carbon para dos revisiones de código. El proyecto tomó alrededor de una semana, equivalente a unas tres jornadas de ocho horas.
+
+## Lo que viene
+
+Registros de vacunación y notas, mejor reconocimiento de interacciones y experimentos para recrear una escena virtual de caricias a partir de los datos del reloj. La animación sigue en fase de exploración. ¡Se agradecen las ideas!
+
+## Comunidad
+
+Mis cuatro gatos y yo esperamos tus sugerencias. ¡Gracias a todos por apoyarnos!
+
+[Unirse al chat de X](https://x.com/i/chat/group_join/g2122385444969349533/55EEg15kcr) · [WeChat y Xiaohongshu](https://docs.qq.com/doc/DVmpqSXpBYmVsdnZK)
+
+[Privacidad](https://betaer.github.io/lucat/privacy/?lang=es-MX)
