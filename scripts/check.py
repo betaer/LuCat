@@ -53,7 +53,8 @@ for code, content in DATA.items():
         assert (ROOT/'dist'/urlparse(asset).path.removeprefix('/lucat/')).is_file(), asset
     for link in page.links:
         if link.startswith(BASE) and '/privacy/' not in link:
-            assert (ROOT/'dist'/urlparse(link).path.removeprefix('/lucat/')/'index.html').is_file(), link
+            target = ROOT/'dist'/urlparse(link).path.removeprefix('/lucat/')
+            assert target.is_file() or (target/'index.html').is_file(), link
     assert '2124558620260188334' in path.read_text()
     assert (ROOT/f'README.{code}.md').is_file()
 print('PASS: 10 locales, app language coverage, source fields, metadata, JSON-LD, images and cross-links')
