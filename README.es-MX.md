@@ -6,10 +6,6 @@
 
 ![LuCat](site/assets/images/lucat-social.jpg)
 
-## ¿Una app para acariciar a tu gato?
-
-El Apple Watch registra entrenamientos. ¿Y si sus sensores de movimiento también pudieran registrar el tiempo que pasamos acariciando a nuestros gatos? Así nació LuCat.
-
 Unos minutos juntos también merecen quedar registrados. LuCat guarda esos momentos para cada gato, desde tu muñeca hasta tu iPhone.
 
 ## Cómo funciona
@@ -32,17 +28,7 @@ Define una meta diaria, por ejemplo tres minutos o tres sesiones. Los recordator
 
 Revisa líneas de tiempo y una estimación de la intensidad de las interacciones basada en el movimiento de la muñeca. Estas estimaciones no miden directamente la fuerza ni la presión sobre tu gato.
 
-## Cómo la desarrollé
-
-Desarrollé LuCat conversando en lenguaje natural con ChatGPT Dot y compartiendo algunas imágenes. Usé Google Gemini Carbon para dos revisiones de código. El proyecto tomó alrededor de una semana, equivalente a unas tres jornadas de ocho horas.
-
-## Lo que viene
-
-Registros de vacunación y notas, mejor reconocimiento de interacciones y experimentos para recrear una escena virtual de caricias a partir de los datos del reloj. La animación sigue en fase de exploración. ¡Se agradecen las ideas!
-
 ## Comunidad
-
-Mis cuatro gatos y yo esperamos tus sugerencias. ¡Gracias a todos por apoyarnos!
 
 [Unirse al chat de X](https://x.com/i/chat/group_join/g2122385444969349533/55EEg15kcr) · [WeChat y Xiaohongshu](https://docs.qq.com/doc/DVmpqSXpBYmVsdnZK)
 

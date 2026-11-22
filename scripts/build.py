@@ -20,9 +20,6 @@ e = html.escape
 def page_url(code):
     return BASE + code + '/'
 
-def section(title, body):
-    return f'<section class="story-block"><h2>{e(title)}</h2><p>{e(body)}</p></section>'
-
 def build_page(code):
     t = DATA[code]
     assets = BASE + 'assets/'
@@ -55,7 +52,7 @@ def build_page(code):
 </head><body>
 <header class="site-header wrap">
 <a class="brand" href="{page_url(code)}">{image('lucat-icon.webp','', 'width=44 height=44')}<span>LuCat</span></a>
-<nav aria-label="LuCat"><a href="#features">{e(t['featuresLabel'])}</a><a href="#story">{e(t['storyLabel'])}</a><a href="#support">{e(t['communityLabel'])}</a>
+<nav aria-label="LuCat"><a href="#features">{e(t['featuresLabel'])}</a><a href="#support">{e(t['communityLabel'])}</a>
 <label class="language-control"><span>{e(t['languageLabel'])}</span><select id="language" aria-label="{e(t['languageLabel'])}">{options}</select></label></nav>
 </header>
 <main id="main" class="wrap">
@@ -72,10 +69,7 @@ def build_page(code):
 {feature('catsTitle','cats','time-by-cat.webp',780,1696)}
 <div class="feature-stack">{feature('weightTitle','weight','duo-weight-trends.webp',1160,816)}
 <article class="feature"><div class="watch-gallery">{''.join(f'<a href="{assets}images/{name}">{image(name,t["howTitle"],"width=416 height=496 loading=lazy")}</a>' for name in ['watch-start.webp','watch-switch-cat.webp','watch-time-with-luna.webp'])}</div><h3>{e(t['motionTitle'])}</h3><p>{e(t['motion'])}</p></article></div></div></section>
-<article id="story" class="article-copy">
-{section(t['headline'],t['origin'])}{section(t['storyTitle'],t['story'])}{section(t['roadmapTitle'],t['roadmap'])}
-<p>{e(t['thanks'])}</p><p><a href="{POST}">{e(t['postLabel'])}</a> · <a href="{REPO}/blob/main/README.{code}.md">{e(t['repoLabel'])}</a></p></article>
-<section class="support" id="support"><div><h2>{e(t['communityLabel'])}</h2><p>{e(t['thanks'])}</p></div>
+<section class="support" id="support"><div><h2>{e(t['communityLabel'])}</h2></div>
 <ul class="contact-links">
 <li><a data-support-email><strong>{e(t['emailLabel'])}</strong><span data-email-label="{e(t['emailLabel'])}">{image('support-address.png',t['emailLabel'],'width=140 height=24')}</span></a></li>
 <li><a href="{CHAT}">{e(t['chatLabel'])}</a></li><li><a href="{FEEDBACK}">{e(t['otherLabel'])} · {e(t['feedbackLabel'])}</a></li></ul></section>
@@ -90,10 +84,10 @@ def readme(code):
     lines = [f'# 🐾 LuCat · {t["tagline"]}', language_links,
              f'**[{t["download"]}]({APP})** · [{t["repoLabel"]}]({page_url(code)}) · [{t["postLabel"]}]({POST})',
              '![LuCat](site/assets/images/lucat-social.jpg)',
-             f'## {t["headline"]}', t['origin'], t['intro']]
-    for title, body in [('howTitle','how'),('catsTitle','cats'),('weightTitle','weight'),('remindersTitle','reminders'),('motionTitle','motion'),('storyTitle','story'),('roadmapTitle','roadmap')]:
+             t['intro']]
+    for title, body in [('howTitle','how'),('catsTitle','cats'),('weightTitle','weight'),('remindersTitle','reminders'),('motionTitle','motion')]:
         lines += [f'## {t[title]}', t[body]]
-    lines += [f'## {t["communityLabel"]}', t['thanks'], f'[{t["chatLabel"]}]({CHAT}) · [{t["otherLabel"]}]({FEEDBACK})',
+    lines += [f'## {t["communityLabel"]}', f'[{t["chatLabel"]}]({CHAT}) · [{t["otherLabel"]}]({FEEDBACK})',
               f'[{t["privacyLabel"]}]({BASE}privacy/?lang={code})']
     if code == 'en':
         lines += ['## Maintaining this introduction',

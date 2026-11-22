@@ -6,10 +6,6 @@
 
 ![LuCat](site/assets/images/lucat-social.jpg)
 
-## Eine App fürs Katzenstreicheln?
-
-Die Apple Watch kann Training aufzeichnen. Könnten ihre Bewegungssensoren auch die Zeit erfassen, die wir mit dem Streicheln unserer Katzen verbringen? Aus dieser Idee ist LuCat entstanden.
-
 Auch ein paar gemeinsame Minuten verdienen einen Platz im Tagebuch. LuCat hält sie für jede Katze fest, von der Apple Watch bis zum iPhone.
 
 ## So funktioniert es
@@ -32,17 +28,7 @@ Setze dir ein Tagesziel, etwa drei Minuten oder drei Sitzungen. Erinnerungen hel
 
 Sieh dir Zeitachsen und die aus Handgelenkbewegungen geschätzte Interaktionsintensität an. Die Werte beruhen auf Bewegung und messen Kraft oder Druck auf die Katze nicht direkt.
 
-## So entstand LuCat
-
-Ich habe die App durch Gespräche in natürlicher Sprache mit ChatGPT Dot entwickelt und gelegentlich Bilder geteilt. Google Gemini Carbon hat den Code zweimal geprüft. Das Projekt dauerte etwa eine Woche, bei acht Stunden pro Arbeitstag ungefähr drei Tage.
-
-## Als Nächstes
-
-Geplant sind Impfaufzeichnungen und Notizen, eine bessere Erkennung von Interaktionen und Experimente, um aus Uhrdaten eine virtuelle Streichelszene zu rekonstruieren. Die Animation ist noch in der Erprobung. Ideen sind willkommen.
-
 ## Community
-
-Meine vier Katzen und ich freuen uns auf eure Vorschläge. Danke an alle, die uns unterstützen!
 
 [X-Chat beitreten](https://x.com/i/chat/group_join/g2122385444969349533/55EEg15kcr) · [WeChat und Xiaohongshu](https://docs.qq.com/doc/DVmpqSXpBYmVsdnZK)
 

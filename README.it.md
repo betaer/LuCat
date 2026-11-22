@@ -6,10 +6,6 @@
 
 ![LuCat](site/assets/images/lucat-social.jpg)
 
-## Un’app per accarezzare il gatto?
-
-Apple Watch registra gli allenamenti. E se i suoi sensori di movimento potessero registrare anche il tempo dedicato alle coccole con i gatti? Da questa idea è nata LuCat.
-
 Anche pochi minuti insieme meritano un posto nel diario. LuCat conserva questi momenti per ogni gatto, dal polso al tuo iPhone.
 
 ## Come funziona
@@ -32,17 +28,7 @@ Imposta un obiettivo giornaliero, come tre minuti o tre sessioni. I promemoria t
 
 Consulta la sequenza dei movimenti e l’intensità stimata delle interazioni dal movimento del polso. Queste stime non misurano direttamente la forza o la pressione esercitata sul gatto.
 
-## Com’è nata
-
-Ho sviluppato LuCat conversando in linguaggio naturale con ChatGPT Dot, condividendo ogni tanto immagini. Google Gemini Carbon ha effettuato due revisioni del codice. Il progetto ha richiesto circa una settimana, pari a circa tre giornate di otto ore.
-
-## I prossimi passi
-
-Registri delle vaccinazioni e note, un migliore riconoscimento delle interazioni ed esperimenti per ricreare una scena virtuale di coccole dai dati dell’orologio. L’animazione è ancora in fase di ricerca. Ogni suggerimento è benvenuto.
-
 ## Community
-
-I miei quattro gatti e io aspettiamo le vostre idee. Grazie a tutti per il sostegno!
 
 [Entra nella chat X](https://x.com/i/chat/group_join/g2122385444969349533/55EEg15kcr) · [WeChat e Xiaohongshu](https://docs.qq.com/doc/DVmpqSXpBYmVsdnZK)
 

@@ -6,10 +6,6 @@
 
 ![LuCat](site/assets/images/lucat-social.jpg)
 
-## Um app para fazer carinho no gato?
-
-O Apple Watch registra exercícios. E se os sensores de movimento também pudessem registrar o tempo que passamos fazendo carinho nos nossos gatos? Foi dessa ideia que nasceu o LuCat.
-
 Alguns minutos juntos também merecem ficar na memória. O LuCat registra esses momentos para cada gato, do seu pulso ao iPhone.
 
 ## Como funciona
@@ -32,17 +28,7 @@ Defina uma meta diária, como três minutos ou três sessões. Os lembretes ajud
 
 Veja linhas do tempo e uma estimativa da intensidade das interações com base no movimento do pulso. Essas estimativas não medem diretamente a força ou a pressão sobre o gato.
 
-## Como desenvolvi
-
-Desenvolvi o LuCat conversando em linguagem natural com o ChatGPT Dot e compartilhando algumas imagens. Usei o Google Gemini Carbon para duas revisões do código. O projeto levou cerca de uma semana, ou aproximadamente três dias de oito horas de trabalho.
-
-## Próximos passos
-
-Registros de vacinação e notas, melhor reconhecimento de interações e experimentos para recriar uma cena virtual de carinho a partir dos dados do relógio. A animação ainda está em exploração. Sugestões são bem-vindas.
-
 ## Comunidade
-
-Meus quatro gatos e eu queremos ouvir suas ideias. Obrigado a todos pelo apoio!
 
 [Entrar no chat do X](https://x.com/i/chat/group_join/g2122385444969349533/55EEg15kcr) · [WeChat e Xiaohongshu](https://docs.qq.com/doc/DVmpqSXpBYmVsdnZK)
 

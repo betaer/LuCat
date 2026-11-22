@@ -6,10 +6,6 @@
 
 ![LuCat](site/assets/images/lucat-social.jpg)
 
-## An app for petting your cat?
-
-I built LuCat after a simple thought. Apple Watch can record a workout, so could its motion sensors also help record the time we spend petting our cats?
-
 A few minutes together deserve a place in your activity log. LuCat saves those moments for each cat, from your wrist to your iPhone.
 
 ## How it works
@@ -32,17 +28,7 @@ Set reminders and a daily goal such as three minutes or three sessions. Reminder
 
 Review movement timelines and estimated interaction intensity derived from wrist motion. These are motion estimates, not direct measurements of force or pressure on your cat.
 
-## How I built it
-
-I built LuCat through natural-language conversations with ChatGPT Dot, occasionally sharing images, and used Google Gemini Carbon for two code reviews. The project took about a week, or roughly three eight-hour working days.
-
-## What’s next
-
-Vaccination records and notes, better recognition of interaction patterns, and an experiment in reconstructing a virtual petting scene from watch motion data. The animation idea is still exploratory, and I would love suggestions.
-
 ## Community
-
-My four cats and I would love your feedback. Thank you to all their honorary aunties, uncles, big brothers, and big sisters!
 
 [Join the X chat](https://x.com/i/chat/group_join/g2122385444969349533/55EEg15kcr) · [WeChat and Xiaohongshu](https://docs.qq.com/doc/DVmpqSXpBYmVsdnZK)
 

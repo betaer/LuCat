@@ -6,10 +6,6 @@
 
 ![LuCat](site/assets/images/lucat-social.jpg)
 
-## Une app pour caresser son chat ?
-
-L’Apple Watch sait enregistrer nos entraînements. Et si ses capteurs de mouvement pouvaient aussi garder une trace du temps passé à caresser nos chats ? C’est ainsi que j’ai créé LuCat.
-
 Quelques minutes ensemble méritent aussi leur place dans un journal. LuCat conserve ces moments pour chaque chat, de votre poignet à votre iPhone.
 
 ## Comment ça marche
@@ -32,17 +28,7 @@ Fixez un objectif quotidien, par exemple trois minutes ou trois séances. Les ra
 
 Consultez les chronologies de mouvements et une estimation de l’intensité des interactions à partir du poignet. Ces estimations ne mesurent pas directement la force ou la pression exercée sur le chat.
 
-## Les coulisses
-
-J’ai développé LuCat en discutant en langage naturel avec ChatGPT Dot, avec quelques images à l’occasion. Google Gemini Carbon a effectué deux revues du code. Le projet a pris environ une semaine, soit près de trois journées de huit heures.
-
-## La suite
-
-Des carnets de vaccination et des notes, une meilleure reconnaissance des interactions et des essais pour recréer une scène virtuelle de caresses à partir des données de la montre. Cette animation reste expérimentale. Vos idées sont les bienvenues.
-
 ## Communauté
-
-Mes quatre chats et moi attendons vos suggestions. Merci à tous ceux qui nous soutiennent !
 
 [Rejoindre le chat X](https://x.com/i/chat/group_join/g2122385444969349533/55EEg15kcr) · [WeChat et Xiaohongshu](https://docs.qq.com/doc/DVmpqSXpBYmVsdnZK)
 

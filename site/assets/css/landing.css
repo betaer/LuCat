@@ -266,10 +266,6 @@ h1 {
 .language-control{display:flex;align-items:center;gap:.4rem}
 .language-control>span{position:absolute;width:1px;height:1px;clip-path:inset(50%);overflow:hidden}
 .language-control select{font:inherit;max-width:13rem;padding:.5rem 2rem .5rem .65rem;border:1px solid var(--line);border-radius:.5rem;color:var(--ink);background:var(--canvas);min-height:44px}
-.article-copy{max-width:54rem;margin:0 auto 4rem}
-.story-block{margin:0 0 2rem}
-.story-block h2{font-size:clamp(1.6rem,3vw,2.2rem);line-height:1.35;margin-bottom:.65rem}
-.article-copy p{line-height:1.85;overflow-wrap:anywhere}
 .language-links{display:flex;justify-content:center;flex-wrap:wrap;gap:.5rem;padding-block:1.5rem 2rem;font-size:.9rem}
 .site-header{flex-wrap:wrap;padding-block:1rem}
 .site-header nav{flex-wrap:wrap}
