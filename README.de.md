@@ -6,7 +6,7 @@
 
 ![LuCat](site/assets/images/lucat-social.jpg)
 
-## Eine App zum Katzenstreicheln?
+## Eine App fürs Katzenstreicheln?
 
 Die Apple Watch kann Training aufzeichnen. Könnten ihre Bewegungssensoren auch die Zeit erfassen, die wir mit dem Streicheln unserer Katzen verbringen? Aus dieser Idee ist LuCat entstanden.
 
